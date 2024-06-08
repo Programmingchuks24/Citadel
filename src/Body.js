@@ -6,9 +6,9 @@ function Body() {
     <div className ="bg-blue-100 w-auto h-[50rem]">
 
         <div className = "text-center pt-10 flex flex-col gap-6">
-            <h1 className = "text-4xl text-blue-950 font-bold w-[26rem] pl-4">Insuring Your Future From Today</h1>
+            <h1 className = "text-4xl text-blue-950 font-bold w-[26rem] pl-4 min-[360px]:pr-16">Insuring Your Future From Today</h1>
 
-            <p className = "text-base w-[26rem] pl-5 text-blue-900 ">Citadel Property Investment LLC is a business website that deals with asset management.
+            <p className = "text-base w-[26rem] pl-5 text-blue-900 min-[360px]:pr-16">Citadel Property Investment LLC is a business website that deals with asset management.
                 Wherein a financial institution manages money on behalf of institutions, sovereign wealth funds,
                 pension funds, corporations, and other large groups.
             </p>

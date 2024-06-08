@@ -19,8 +19,8 @@ function Services() {
 
                 <HouseIcon style={{height: "7rem", width:"5rem"}} className="text-blue-500"/>
                 <div>
-                    <p className = "text-2xl font-bold">Property Investment management</p>
-                    <p className = "text-left w-[26rem]">Citadel LLC specialises in managing property investments with a strong fous on acquiring and managing properties in international markets.</p>
+                    <p className = "text-2xl font-bold min-[360px]:text-xl">Property Investment management</p>
+                    <p className = "text-left w-[26rem] min-[360px]:w-[25rem]">Citadel LLC specialises in managing property investments with a strong fous on acquiring and managing properties in international markets.</p>
                 </div>
 
             </div>
@@ -29,8 +29,8 @@ function Services() {
 
                 <TimelineIcon style={{height: "7rem", width:"5rem"}} className="text-blue-500"/>
                 <div>
-                    <p className = "text-2xl font-bold">Business Start-up Consulting</p>
-                    <p className = "text-left w-[26rem]">We offer comprehensive consulting services for enterpreneurs looking to start a business in the food and entertainment sectors.</p>
+                    <p className = "text-2xl font-bold min-[360px]:text-xl">Business Start-up Consulting</p>
+                    <p className = "text-left w-[26rem] min-[360px]:w-[23rem]">We offer comprehensive consulting services for enterpreneurs looking to start a business in the food and entertainment sectors.</p>
                 </div>
                
             </div>
@@ -40,8 +40,8 @@ function Services() {
                 <EqualizerIcon style={{height: "7rem", width:"5rem"}} className="text-blue-500"/>
 
                 <div>
-                    <p className = "text-2xl font-bold">Project Management</p>
-                    <p className = "text-left w-[26rem]">Our project Management services at citadel llc are tailored to deliver exceptional event planning and execution.</p>
+                    <p className = "text-2xl font-bold min-[360px]:text-xl">Project Management</p>
+                    <p className = "text-left w-[26rem] min-[360px]:w-[21rem]">Our project Management services at citadel llc are tailored to deliver exceptional event planning and execution.</p>
                 </div>
                 
             </div>
@@ -50,8 +50,8 @@ function Services() {
 
                 <DonutLargeIcon style={{height: "7rem", width:"5rem"}} className="text-blue-500"/>
                 <div>
-                    <p className = "text-2xl font-bold">Strategic Marketing Solutions</p>
-                    <p className = "text-left w-[26rem]">Citadel LLC offers strategic marketing solutions aimed at enhancing brand development and establishing a strong digital presence. </p>
+                    <p className = "text-2xl font-bold min-[360px]:text-xl">Strategic Marketing Solutions</p>
+                    <p className = "text-left w-[26rem] min-[360px]:w-[23rem]">Citadel LLC offers strategic marketing solutions aimed at enhancing brand development and establishing a strong digital presence. </p>
                 </div>
             </div>
         </div>
