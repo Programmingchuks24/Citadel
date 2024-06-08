@@ -1,6 +1,7 @@
 import './App.css';
 import Header from './Header.js';
 import Body from './Body.js';
+import Services from "./Services.js";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       </div>
       <div className = "mt-[5rem] overflow-hidden">
         <Body/>
+        <Services/>
       </div>
       
     </div>

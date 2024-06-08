@@ -1,5 +1,5 @@
 import React from 'react';
-import pic from "./pictures/Untitled.png";
+import pic from "./pictures/Logo maker project-2.png";
 import MenuOutlinedIcon from '@mui/icons-material/MenuOutlined';
 
 function Header() {
