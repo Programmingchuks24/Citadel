@@ -20,7 +20,7 @@ function Body() {
 
         </div>
 
-        <img src = {man} alt = "man" className="mt-5 h-[28rem] w-[25rem] ml-3"/>
+        <img src = {man} alt = "man" className="mt-5 h-[28rem] w-[25rem] ml-3 min-[360px]:h-[26.5rem] min-[360px]:ml-1"/>
         
     </div>
   )
